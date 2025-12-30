@@ -129,14 +129,15 @@ npm run dev
 
 ### Todos
 - `GET /api/todos` - Get all todos
+- `GET /api/todos/:id` - Get a single todo by ID
 - `POST /api/todos` - Create a new todo
 - `PUT /api/todos/:id` - Update a todo
+- `PUT /api/todos/reorder` - Reorder todos (Kanban support)
 - `DELETE /api/todos/:id` - Delete a todo
 
 ### Categories
 - `GET /api/categories` - Get all categories
 - `POST /api/categories` - Create a new category
-- `PUT /api/categories/:id` - Update a category
 - `DELETE /api/categories/:id` - Delete a category
 
 ## 🔧 Environment Variables
