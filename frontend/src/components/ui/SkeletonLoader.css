@@ -1,0 +1,16 @@
+.skeleton-loader {
+  background: rgba(255, 255, 255, 0.05);
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background: rgba(255, 255, 255, 0.05);
+  }
+  50% {
+    background: rgba(255, 255, 255, 0.1);
+  }
+  100% {
+    background: rgba(255, 255, 255, 0.05);
+  }
+}
