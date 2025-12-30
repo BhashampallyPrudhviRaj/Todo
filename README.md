@@ -180,8 +180,10 @@ NODE_ENV=production
 ### Mobile Views
 
 <div align="center">
-  <img src="screenshots/mobile-view.png" alt="Mobile View 1" width="30%">
-  <img src="screenshots/mobile-view1.png" alt="Mobile View 2" width="30%">
+  <img src="screenshots/mobile-view.png" alt="Mobile View 1" width="24%">
+  <img src="screenshots/mobile-view1.png" alt="Mobile View 2" width="24%">
+  <img src="screenshots/mobile-view2.png" alt="Mobile View 3" width="24%">
+  <img src="screenshots/mobile-view3.png" alt="Mobile View 4" width="24%">
 </div>
 
 ## 🤝 Contributing
